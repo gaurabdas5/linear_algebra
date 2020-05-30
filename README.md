@@ -1,4 +1,4 @@
-# linear_algebra
+# Singular Value Decomposition
 Linear Algebra in Machine Learning:
 
 We use Singular Value Decompostion (SVD) to compress images.
